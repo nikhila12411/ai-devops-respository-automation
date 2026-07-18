@@ -1,1 +1,1 @@
-print("AI DevOps Repository Automation Assistant started")
+#Application entry point
