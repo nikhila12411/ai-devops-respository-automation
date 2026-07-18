@@ -1,0 +1,6 @@
+PyGithub
+python-dotenv
+fastapi
+uvicorn
+google-cloud-aiplatform
+langchain
